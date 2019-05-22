@@ -1,0 +1,26 @@
+* {
+    color: red;
+    font-family: Serif;
+}
+
+h2 {
+    font-size: medium;
+    color: pink;
+    border: 2px solid pink;
+    font-family: sans-serif;
+    padding: 50px;
+    margin: 50px;
+}
+
+.coding {
+    background-color: lightgrey;
+    font-family: "Courier New", monospace;
+}
+
+.kuning {
+    color: rgba(255, 0, 0, 0.2);
+}
+
+.biru {
+    color: blue;
+}
